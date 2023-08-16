@@ -253,8 +253,7 @@ $num_cus_loans = mysqli_fetch_assoc($result_loan_count)['total'];
         let s = today.getSeconds();
         m = checkTime(m);
         s = checkTime(s);
-        $('clock').innerHTML =
-            h + ":" + m + ":" + s;
+        $('#clock').html(h + ":" + m + ":" + s);
         const t = setTimeout(startTime, 500);
     }
 
