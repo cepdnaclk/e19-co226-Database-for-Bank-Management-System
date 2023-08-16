@@ -50,13 +50,13 @@ The objective of this system is to archive, orchestrate, and access information 
 
 Utilizing a meticulously structured database, users can:
 
-..* Browse and access detailed account profiles and transaction histories, user profiels, loan information.
-..* Monitor account , customer , loan information.
-..* Add new data and remove existing data from database. 
-..* Get in touch with customers using notices.
-..* Visualizations deriving from the stored data.
-..* Handle employee data.
-..* Transfer money among other accounts.
+* Browse and access detailed account profiles and transaction histories, user profiles, loan information.
+* Monitor account, customer, loan information.
+* Add new data and remove existing data from the database.
+* Get in touch with customers using notices.
+* Visualizations deriving from the stored data.
+* Handle employee data.
+* Transfer money among other accounts.
 
 In essence, the Treasure Island Banking Service is more than just a database; it's a compass guiding its users through the vast seas of financial management.
 
