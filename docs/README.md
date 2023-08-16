@@ -68,5 +68,11 @@ In essence, the Treasure Island Banking Service is more than just a database; it
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
 
+---
+
+🏴‍☠️ **Fun Note:** If you ever feel lost in the sea of code, just remember – even pirates sometimes read the map upside down. Keep sailing, and may your codes always be treasure-worthy! ☠️💰
+
+Yarrr, happy coding matey! 🦜
+
 [//]: # (Please refer this to learn more about Markdown syntax)
 [//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
