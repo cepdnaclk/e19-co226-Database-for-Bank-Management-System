@@ -19,7 +19,7 @@ This is a sample image, to show how to add images to your page. To learn more op
 ![Sample Image](./images/sample.png)
  -->
 
-![Sample Image](./images/logo.png)
+![Sample Image](./images/logo_new.png)
 Figure 1.1 Sample Image
 
 ## Team
