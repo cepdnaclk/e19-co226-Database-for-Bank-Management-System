@@ -9,7 +9,7 @@ title: Treasure Island Banking Service
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Treasure Island Banking Service - Database for Bank Management System
 
 ---
 
@@ -18,6 +18,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ![Sample Image](./images/sample.png)
  -->
+
+![Sample Image](./images/logo.png)
+Figure 1.1 Sample Image
 
 ## Team
 -  e19366, Senevirathne W.A.M.P., [email](mailto:e19366@eng.pdn.ac.lk)
