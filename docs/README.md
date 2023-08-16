@@ -19,8 +19,9 @@ This is a sample image, to show how to add images to your page. To learn more op
 ![Sample Image](./images/sample.png)
  -->
 
-![Sample Image](./images/logo_new.png)
-Figure 1.1 Sample Image
+<div class="figure container">
+<img class="mx-auto d-block" src="./images/logo_new.png" alt="Sample Image" width="128" />
+</div>
 
 ## Team
 -  e19366, Senevirathne W.A.M.P., [email](mailto:e19366@eng.pdn.ac.lk)
