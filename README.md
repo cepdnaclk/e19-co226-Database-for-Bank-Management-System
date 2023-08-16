@@ -20,7 +20,8 @@ Ahoy, digital voyagers! Welcome to the Treasure Island Banking Service - a uniqu
      1. Import `main_structure.sql`
      2. Then import `data.sql`.
 
-3. **Access the Landing Page:**  
+3. **Access the Landing Page:**
+   - Change `connection.php` for your database's username and password
    - If you're using WAMP and have placed the project files in a folder named 'project-cloned' within the 'www' directory (for XAMPP htdocs):
      - Open your browser and type: `localhost/project-cloned`
      - Hit Enter to access the landing page.
